@@ -58,8 +58,6 @@ louis-vuitton-website-clone/
 │   ├── App.js
 │   ├── index.js
 │
-├── .env
-├── .gitignore
 ├── package.json
 ├── README.md
 └── LICENSE
