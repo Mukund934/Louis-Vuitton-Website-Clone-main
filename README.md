@@ -33,33 +33,6 @@ The Louis Vuitton Website Clone project is an attempt to recreate the luxury bra
 
 Check out the live demo of the project [here](https://louis-vuitton-website-clone-main.vercel.app/).
 
-## 🛠️ Installation
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/pkprajapati7402/louis-vuitton-website-clone.git
-   cd louis-vuitton-website-clone
-   ```
-
-2. **Install Dependencies**:
-
-   ```bash
-   npm install
-   ```
-
-3. **Set Up Environment Variables**:
-   Create a `.env` file in the root directory and add your environment variables. For example:
-
-   ```env
-   REACT_APP_API_URL=http://localhost:5000/api
-   ```
-
-4. **Start the Development Server**:
-   ```bash
-   npm start
-   ```
-
 ## 🚦 Usage
 
 1. **Run the Application**:
